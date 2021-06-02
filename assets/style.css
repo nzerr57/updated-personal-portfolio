@@ -1,0 +1,64 @@
+:root {
+    --charcoal: #2E4057;
+    --aqua: #80ffdb;
+}
+
+h1 {
+    text-align: center;
+    background-color: mediumaquamarine;
+    color: var(--charcoal);
+}
+
+h2 {
+    text-align: center;
+}
+
+nav {
+    background-color: var(--charcoal);
+}
+
+nav a{
+    margin: 10px;
+    color: var(--aqua);
+    padding: 50px;
+}
+
+
+section {
+    border: 2px solid var(--charcoal);
+}
+
+#profile {
+   max-height: 200px;
+}
+
+#about {
+    text-align: center;
+}
+
+.screenshot {
+    max-height: 400px;
+    max-width: 600px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+#project-1 {
+    border: 2px solid black;
+    background-color: var(--charcoal);
+    color: white;
+}
+
+ #project-2 {
+    border: 2px solid black;
+    background-color: mediumaquamarine;
+    color: white;
+}
+
+#project-3 {
+    border: 2px solid black;
+    background-color: var(--charcoal);
+    color: white;
+}
