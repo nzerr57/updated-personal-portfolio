@@ -1,11 +1,11 @@
-# updated-portfolio
+# updated-personal-portfolio
 
 ## Description
 The objective of this project was to show an updated version of the previous portfolio project that I created. This project contains information such as a biography, contact information, and a few featured projects that I created and/or worked on.
 
-[Link to deployed project](#)
+[Link to deployed project](https://nzerr57.github.io/updated-personal-portfolio/)
 
-![screenshot of project](#)
+![screenshot of project](https://github.com/nzerr57/updated-personal-portfolio/blob/92616a6c54b3b2580c047598c0e277b9c4921f0c/assets/images/portfolioScreenshot.png)
 
 
 
